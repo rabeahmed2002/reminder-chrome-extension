@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Reminders",
+    "action": {
+        "default_popup": "extension.html",
+        "default_icon": "reminder.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
